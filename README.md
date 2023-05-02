@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, My name is Thamvarut Wannachetisara
+It's me, Thamvarut Wannachetisara. <img src="https://i.pinimg.com/originals/35/b2/9a/35b29a57bbfd491a23cf106529acc762.gif" width="50">
 ================================================================================================================================================
 
 I am a novice coder who has been studying code for a short while. I've been using C and C++ as my main languages and currently practice on Python to expand my skills. I enjoy learning new concepts and solving problems with code.

@@ -26,6 +26,7 @@
 * 🎂  **Age:** 18
 * 🌍  **Bangkok, Thailand**
 * 👨🏻‍💻  **2-3 years** with **basic coding experience**
+* 📊  **Deeply Passionate about Data Engineering and Analysis**
 * ✉️  You can contact me at [click me](mailto:thamvarut.wannachetisara@gmail.com)
 
 ## Languages & Tools

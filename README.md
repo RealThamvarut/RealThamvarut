@@ -23,7 +23,7 @@
 
 * 🌋  **Name:** Thamvarut Wannachetisara
 * 🌠  **Nickname:** Reo [怜央]
-* 🎂  **Age:** 18
+* 🎂  **Age:** 19
 * 🌍  **Bangkok, Thailand**
 * 👨🏻‍💻  **2-3 years** with **basic coding experience**
 * 📊  **Deeply Passionate about Data Engineering and Analysis**
